@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://avinashbawage.github.io/csb-hz2ih6/static/css/main.fc5c2c69.css",
+    "main.js": "https://avinashbawage.github.io/csb-hz2ih6/static/js/main.e3dccd4a.js",
+    "index.html": "https://avinashbawage.github.io/csb-hz2ih6/index.html",
+    "main.fc5c2c69.css.map": "https://avinashbawage.github.io/csb-hz2ih6/static/css/main.fc5c2c69.css.map",
+    "main.e3dccd4a.js.map": "https://avinashbawage.github.io/csb-hz2ih6/static/js/main.e3dccd4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.e3dccd4a.js"
+  ]
+}
